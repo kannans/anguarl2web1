@@ -1,5 +1,5 @@
-# anguarl2web1
-angular 2 sample web app. It for self learning purpose.
+# Anguarl2 web sample
+Angular 2 sample web app. It for self learning purpose.
 
 # Installation
 * Clone application
